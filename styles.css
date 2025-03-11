@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f6f2; /* Light cream background */
+    background-color: #EADEC4; /* Light cream background */
     color: #333;
 }
 
@@ -12,7 +12,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #800020; /* Maroon */
+    background-color: #4D0413; /* Maroon */
     padding: 15px 50px;
 }
 
