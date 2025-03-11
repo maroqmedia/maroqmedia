@@ -95,3 +95,11 @@ footer {
     background-color: #800020;
     color: #fff;
 }
+
+.logo img {
+    width: 80px;  /* Adjust size */
+    height: 80px; /* Adjust size */
+    border-radius: 50%; /* Makes it circular */
+    object-fit: cover; /* Ensures proper scaling */
+    border: 2px solid #F5E8DA; /* Optional: Adds a border */
+}
